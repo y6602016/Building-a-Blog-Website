@@ -1,7 +1,10 @@
-Build a basic blog website with Node.js and MVC structure.
+# Build a basic blog website with Node.js and MVC structure.
 
-View engine: EJS
-Backend language: Node.js
-Backend framword: Express
-Database: MongoDB
+1. View engine: EJS
+
+2. Backend language: Node.js
+
+3. Backend framword: Express
+
+4. Database: MongoDB
 
