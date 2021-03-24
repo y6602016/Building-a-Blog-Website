@@ -4,7 +4,7 @@
 
 2. Backend language: Node.js
 
-3. Backend framword: Express
+3. Backend framework: Express
 
 4. Database: MongoDB
 
